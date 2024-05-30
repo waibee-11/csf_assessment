@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+img{
+  width: 200px;
+  margin-top: 20px;
+}
+
+.dog-title{
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+.dog-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.field{
+  display: flex;
+  gap:20px;
+}
+
+button{
+  margin-top:20px;
+}
+
+hr{
+  margin-top: 20px;
+  margin-bottom:20px;
+}
